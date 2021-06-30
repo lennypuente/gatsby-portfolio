@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Lennys Portfolio",
+    description: "Portfolio Website mit GatsbyJS",
   },
   plugins: [
     "gatsby-plugin-gatsby-cloud",
