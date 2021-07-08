@@ -1,0 +1,107 @@
+.fotoText {
+    font-weight: bold;
+    font-size: 200%;
+    text-align: center;
+    position: relative;
+    z-index: 2;
+}
+
+.fotoLenny {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 20%;
+    width: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+    opacity: 1;
+    z-index: 2;
+}
+
+.aboutText {
+    font-size: 145%;
+    font-weight: 500;
+    color: black;
+    display: block;
+    position: relative;
+    padding-left: 5%;
+    z-index: 2;
+    padding-right: 5%;
+}
+
+#space {
+    height: 30px;
+}
+
+.experienceText {
+    font-size: 150%;
+    padding-left: 5%;
+    position: relative;
+    z-index: 2;
+}
+
+.contactTitle {
+    position: relative;
+    padding-left: 5%;
+    font-size: 200%;
+    font-weight: bold;
+    z-index: 2;
+}
+
+.contactText {
+    position: relative;
+    padding-left: 5%;
+    z-index: 2;
+    font-size: 150%;
+}
+
+.contactDesc {
+    position: relative;
+    padding-left: 5%;
+    z-index: 2;
+    font-size: 175%;
+    font-weight: bold;
+    text-decoration: underline black;
+}
+
+.fotoApplication {
+    position: relative;
+    z-index: 2;
+    margin-left: 5%;
+    width: 40%;
+    border: 3px solid black;
+}
+
+.applicationTitle {
+    position: relative;
+    z-index: 2;
+    margin-left: 5%;
+    padding-top: 5%;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.githubicon {
+    margin-left: 5%;
+    padding: 5px;
+    z-index: 2;
+    position: relative;
+    border: 3px solid black;
+}
+
+.m152icon {
+    margin-left: 1%;
+    padding: 5px;
+    z-index: 2;
+    position: relative;
+    border: 3px solid black;
+}
+
+.spotifyicon {
+    margin-left: 1%;
+    padding: 5px;
+    z-index: 2;
+    position: relative;
+    border: 3px solid black;
+}
